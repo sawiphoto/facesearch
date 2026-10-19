@@ -1,0 +1,12 @@
+**/*.md
+.agents/**
+creds.json
+.git/**
+node_modules/**
+temp_pull/**
+temp_teacher_pull/**
+07.55*/**
+ระบบค้นหาใบหน้าสำหรับนักเรียน/**
+
+# Local contract tests are not Apps Script source.
+tests/**

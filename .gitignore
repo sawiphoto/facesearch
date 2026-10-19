@@ -1,0 +1,17 @@
+# Local credentials, deployment link and biometric data never belong in this repository.
+creds.json
+*credentials*.json
+.clasp.json
+.clasprc.json
+.env
+.env.*
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+node_modules/
+temp*/
+test-results/
+playwright-report/
+logs/
+*.log
